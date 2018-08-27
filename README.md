@@ -1,2 +1,4 @@
 # Dashboard
-Dashboard em Angular js
+Dashboard em Angular js 
+
+Utilizando o google charts
